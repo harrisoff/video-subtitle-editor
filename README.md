@@ -5,6 +5,8 @@
 
 目前仅支持 SRT 格式。
 
+[在线 demo](https://harrisoff.github.io/video-subtitle-editor)
+
 ## 安装
 
 1. `clone` 项目
